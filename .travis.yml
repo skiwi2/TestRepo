@@ -6,4 +6,4 @@ notifications:
             - secure: "GvbQfNl0CHkfqD5NgFptRJf94nw+dzxXb+RQ+tN8G2XFsRrodRdwSdBbBFocAK7wj3moaRGTdLO82sxDbHf6DdOGKVjfLg669xb+UuoAa9m+Y9w45oBdvBcbJK2AveyutlYGFZWT6TXCehB95O/L4976TVKz963lE4RaKOq/fqs="
         on_success: always
         on_failure: always
-        on_start: always
+        on_start: true
